@@ -1,0 +1,13 @@
+﻿REQUIREMENTS 
+FOR DISCORD BOT FOR KODLAN PYTHON PRO TEST
+
+
+
+
+1. I needed to pip install the nest asyncio and discord libraries since I was working on a Jupyter Notebook via Google Colab.
+
+
+2. As the second step, I imported the nest asyncio and discord libraries to the workspace.
+
+
+3. After writing the code I went to Discord Developer Portal to create a token for my Discord Bot.
